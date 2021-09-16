@@ -1,0 +1,25 @@
+h1,h2,h3,h4,h5,h6,p,ul{
+    margin: 0px;
+    padding: 0%;
+    font-size: initial;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@200;300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap');
+
+:root {
+    --logo-font: 'Dancing Script', cursive;
+    --spartan-font: 'Spartan', sans-serif;
+    --montserrat-font: 'Montserrat', sans-serif;
+    --logo-color-1: #E8E4D9;
+    --logo-color-2: #F8D34B;
+    --logo-color-3: #FEE27F;
+    --logo-color-4: #ECE5D1;
+    --logo-color-5: #FDF8E8;
+    --logo-color-6: #E25A29;
+    --logo-color-7: #E89E35;
+    --logo-color-8: #BF9060;
+    --logo-color-8: #F7CC88;
+    --logo-color-8: #E8E4D9;
+}
+
